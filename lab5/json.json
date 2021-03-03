@@ -1,0 +1,58 @@
+{
+  "2": {
+    "id": 118,
+    "name": "ooo",
+    "coordinates": {
+      "x": -900.0,
+      "y": 888
+    },
+    "creationDate": {
+      "date": {
+        "year": 2021,
+        "month": 3,
+        "day": 3
+      },
+      "time": {
+        "hour": 23,
+        "minute": 44,
+        "second": 49,
+        "nano": 828988600
+      }
+    },
+    "annualTurnover": 88888.0,
+    "fullName": "Z1bWba",
+    "employeesCount": 587435838,
+    "type": "PUBLIC",
+    "postalAddress": {
+      "zipCode": "584785"
+    }
+  },
+  "1": {
+    "id": 51,
+    "name": "One Direction ",
+    "coordinates": {
+      "x": -789.0,
+      "y": 78
+    },
+    "creationDate": {
+      "date": {
+        "year": 2021,
+        "month": 3,
+        "day": 3
+      },
+      "time": {
+        "hour": 23,
+        "minute": 42,
+        "second": 49,
+        "nano": 407989900
+      }
+    },
+    "annualTurnover": 5000000.0,
+    "fullName": "RrxAjF",
+    "employeesCount": 789,
+    "type": "GOVERNMENT",
+    "postalAddress": {
+      "zipCode": "777"
+    }
+  }
+}
